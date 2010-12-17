@@ -1,0 +1,5 @@
+Contains code from Scalable Ajax with Grails talk.
+
+tomcatnio is a plugin used in place of tomcat for the tomcat_advancedio project.
+
+atmosphere project includes messages moving in 2 directions.
